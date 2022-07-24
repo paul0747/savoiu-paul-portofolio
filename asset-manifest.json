@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/savoiu-paul-portofolio/static/css/main.5f4aab63.chunk.css",
+    "main.js": "/savoiu-paul-portofolio/static/js/main.b12951cc.chunk.js",
+    "main.js.map": "/savoiu-paul-portofolio/static/js/main.b12951cc.chunk.js.map",
+    "runtime-main.js": "/savoiu-paul-portofolio/static/js/runtime-main.afdc2e7a.js",
+    "runtime-main.js.map": "/savoiu-paul-portofolio/static/js/runtime-main.afdc2e7a.js.map",
+    "static/js/2.53c71664.chunk.js": "/savoiu-paul-portofolio/static/js/2.53c71664.chunk.js",
+    "static/js/2.53c71664.chunk.js.map": "/savoiu-paul-portofolio/static/js/2.53c71664.chunk.js.map",
+    "index.html": "/savoiu-paul-portofolio/index.html",
+    "static/css/main.5f4aab63.chunk.css.map": "/savoiu-paul-portofolio/static/css/main.5f4aab63.chunk.css.map",
+    "static/js/2.53c71664.chunk.js.LICENSE.txt": "/savoiu-paul-portofolio/static/js/2.53c71664.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afdc2e7a.js",
+    "static/js/2.53c71664.chunk.js",
+    "static/css/main.5f4aab63.chunk.css",
+    "static/js/main.b12951cc.chunk.js"
+  ]
+}
